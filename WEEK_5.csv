@@ -1,0 +1,4 @@
+transaction_id,customer_name,product_name,quantity,payment_mode,amount,payment_status,transaction_status,payment_date
+201,Arun,Laptop,1,UPI,55000.00,Successful,Successful,2026-09-01
+202,Priya,Smartphone,1,"Credit Card",25000.00,Successful,Successful,2026-09-02
+203,Kavin,Headphones,1,Cash,3000.00,Failed,Failed,2026-09-03
