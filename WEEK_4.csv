@@ -1,0 +1,4 @@
+order_id,customer_name,product_name,quantity,price,total_amount,payment_mode,payment_status,order_date
+201,Arun,Laptop,1,55000.00,55000.00,UPI,Successful,2026-09-01
+202,Priya,Smartphone,2,25000.00,50000.00,"Credit Card",Successful,2026-09-02
+203,Kavin,Headphones,1,3000.00,3000.00,Cash,Pending,2026-09-03
