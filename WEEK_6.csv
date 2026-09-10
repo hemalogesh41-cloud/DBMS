@@ -1,0 +1,4 @@
+review_id,customer_name,product_name,category,rating,review_text,seller_name,stock,review_date
+201,Arun,Laptop,Electronics,5,"Excellent product","ABC Electronics",10,2026-09-01
+202,Priya,Smartphone,Electronics,4,"Good quality","XYZ Stores",20,2026-09-02
+203,Kavin,Headphones,Accessories,3,"Average product","Global Traders",30,2026-09-03
