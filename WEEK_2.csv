@@ -1,0 +1,4 @@
+order_id,customer_name,product_name,category_name,supplier_name,price,quantity,order_date
+401,Arun,Laptop,Electronics,"ABC Suppliers",55000.00,1,2026-09-01
+402,Priya,T-Shirt,Clothing,"XYZ Traders",800.00,2,2026-09-02
+403,Kavin,"Python Book",Books,"Global Suppliers",600.00,1,2026-09-03
