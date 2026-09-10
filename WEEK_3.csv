@@ -1,0 +1,5 @@
+seller_id,seller_name,product_id,product_name,category,selling_price,stock_quantity,stock_status,sold_quantity,sale_date
+1,"Arun Traders",101,Laptop,Electronics,54000.00,15,Available,2,2026-09-01
+1,"Arun Traders",104,Headphones,Accessories,2800.00,10,Available,2,2026-09-04
+2,"Priya Stores",102,Smartphone,Electronics,24500.00,25,Available,3,2026-09-02
+3,"Kavin Enterprises",103,T-Shirt,Clothing,750.00,0,Unavailable,5,2026-09-03
