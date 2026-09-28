@@ -1,0 +1,6 @@
+product_id,product_name,category,price,stock,customer_name,city
+102,Mobile,Electronics,25000.00,20,Arun,Chennai
+102,Mobile,Electronics,25000.00,20,Divya,Chennai
+103,Headphones,Accessories,2000.00,15,Arun,Chennai
+103,Headphones,Accessories,2000.00,15,Divya,Chennai
+105,T-Shirt,Fashion,800.00,30,Arun,Chennai
